@@ -72,7 +72,7 @@ Moreover, the shrinking page switch its side menu to footer menu which seems kin
 https://github.com/kenstratton/cs290_project1
 
 The website design is almost completed, and I believe it can respond users's behaviors thanks to setting flex width.<br>
-The point I don't like on the website are low navigation quality.<br>
+The point I don't like on the website is low navigation quality.<br>
 The website displays some icons on the left-side menu, but newly-registered users could not understand its function only with the icons.<br>
 I would like to make the icons show some description when hoverd or below them.
 
